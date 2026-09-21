@@ -2,9 +2,9 @@
 
 ## PROJECT OBJECTIVES
 Analyze Zepto sales and business performance.
-*Monitor key business KPIs such as sales, orders, and quantity.
--Compare sales across different cities and customer segments.
--Identify top-performing products and categories.
+Monitor key business KPIs such as sales, orders, and quantity.
+Compare sales across different cities and customer segments.
+Identify top-performing products and categories.
 -Analyze customer types and payment methods.
 -Understand monthly sales trends.
 -Support business decision-making through interactive visualizations.
