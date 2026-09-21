@@ -29,7 +29,7 @@
 - How does sales performance vary by category and customer type?
 
 ## Dashboard
-- The Zepto Sales Dashboard provides an interactive view of business performance using Excel charts, KPI cards, and filters.
+- <a href="https://github.com/sravanthi287/ZEPTO-SALES-DASHBOARD/blob/main/DASHBOARD.jpeg">Dashboard</a>
 
 ## Project Insights
 - Total Sales: 563,992.30
